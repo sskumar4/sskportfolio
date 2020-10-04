@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/view_employee_directory/static/css/main.fae44d0f.chunk.css",
+    "main.js": "/view_employee_directory/static/js/main.72847bf7.chunk.js",
+    "main.js.map": "/view_employee_directory/static/js/main.72847bf7.chunk.js.map",
+    "runtime-main.js": "/view_employee_directory/static/js/runtime-main.4a5f42eb.js",
+    "runtime-main.js.map": "/view_employee_directory/static/js/runtime-main.4a5f42eb.js.map",
+    "static/css/2.dd163b5e.chunk.css": "/view_employee_directory/static/css/2.dd163b5e.chunk.css",
+    "static/js/2.96f48df0.chunk.js": "/view_employee_directory/static/js/2.96f48df0.chunk.js",
+    "static/js/2.96f48df0.chunk.js.map": "/view_employee_directory/static/js/2.96f48df0.chunk.js.map",
+    "index.html": "/view_employee_directory/index.html",
+    "precache-manifest.6a45955e3942b7a8992adf0a3d75d496.js": "/view_employee_directory/precache-manifest.6a45955e3942b7a8992adf0a3d75d496.js",
+    "service-worker.js": "/view_employee_directory/service-worker.js",
+    "static/css/2.dd163b5e.chunk.css.map": "/view_employee_directory/static/css/2.dd163b5e.chunk.css.map",
+    "static/css/main.fae44d0f.chunk.css.map": "/view_employee_directory/static/css/main.fae44d0f.chunk.css.map",
+    "static/js/2.96f48df0.chunk.js.LICENSE.txt": "/view_employee_directory/static/js/2.96f48df0.chunk.js.LICENSE.txt",
+    "static/media/SPProject.jpg": "/view_employee_directory/static/media/SPProject.438fac49.jpg",
+    "static/media/TPG.jpg": "/view_employee_directory/static/media/TPG.b04b376a.jpg",
+    "static/media/eatdaburger.jpg": "/view_employee_directory/static/media/eatdaburger.338e8438.jpg",
+    "static/media/img1.JPG": "/view_employee_directory/static/media/img1.114174a7.JPG",
+    "static/media/img2.JPG": "/view_employee_directory/static/media/img2.5d9a05a2.JPG",
+    "static/media/img3.JPG": "/view_employee_directory/static/media/img3.a6623747.JPG",
+    "static/media/logo.svg": "/view_employee_directory/static/media/logo.5d5d9eef.svg",
+    "static/media/notetaker.jpg": "/view_employee_directory/static/media/notetaker.f5f1154a.jpg",
+    "static/media/safetravel.jpg": "/view_employee_directory/static/media/safetravel.cdb8068b.jpg",
+    "static/media/weatherDashboard.jpg": "/view_employee_directory/static/media/weatherDashboard.fb7a17d9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a5f42eb.js",
+    "static/css/2.dd163b5e.chunk.css",
+    "static/js/2.96f48df0.chunk.js",
+    "static/css/main.fae44d0f.chunk.css",
+    "static/js/main.72847bf7.chunk.js"
+  ]
+}
