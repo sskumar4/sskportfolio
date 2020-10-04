@@ -13,10 +13,10 @@ function Project(props) {
             <strong>Name:</strong> {props.name}
           </li>
           <li>
-            <strong>Github:</strong><a href=""> {props.githublink}</a>
+          <a target="_blank" href={props.githublink}><strong>Github Link</strong></a>
           </li>
           <li>
-            <strong>Deployment:</strong><a href=""> {props.deploymentlink}</a>
+          <a target="_blank" href={props.deploymentlink}><strong>Deployed Link</strong></a>
           </li>
         </ul>
       </div>

@@ -1,7 +1,6 @@
 .sliderimg{
   width: 100%;
   height: 312px;
-  object-fit: cover;
-  background-color: dimgrey ;
-  z-index: 2;
+  object-fit: cover;  
+  
 }

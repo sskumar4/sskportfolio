@@ -1,6 +1,7 @@
 import React from "react";
 import Container from "../components/Container";
 import Header from "../components/Header";
+import Wrapper from "../components/Wrapper";
 import Row from "../components/Row";
 import Col from "../components/Col";
 import AliceCarousel from 'react-alice-carousel';
@@ -12,6 +13,7 @@ import "./about.css";
 
 function About() {
   return (
+    <Wrapper>
     <div className="container-fluid">
       {/* <Header backgroundImage="https://i.imgur.com/qkdpN.jpg">
         <h1>Sudha Kumar Portfolio</h1>
@@ -41,7 +43,9 @@ function About() {
           </Col>
         </Row>
       </Container>
+      
     </div>
+    </Wrapper>
   );
 }
 
