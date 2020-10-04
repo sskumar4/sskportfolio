@@ -24,8 +24,8 @@ function About() {
         <Row>
           <Col size="md-12">
           <AliceCarousel autoPlay autoPlayInterval="3000">
-          <img src={img1} className="sliderimg"/>
-          <img src={img2} className="sliderimg"/>
+          <img src={img2} className="sliderimg"/>  
+          <img src={img1} className="sliderimg"/>          
           <img src={img3} className="sliderimg"/>
           </AliceCarousel>
             <h1>About Me</h1>

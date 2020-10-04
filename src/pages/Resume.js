@@ -2,6 +2,7 @@
 // import { Document } from 'react-pdf';
 import React, { useState } from 'react';
 import { Document, Page } from 'react-pdf';
+import file from 'Resume-SudhaKumar-72220.pdf'
 
 // import ReactDOM from 'react-dom';
 // import Wrapper from "../components/Wrapper";
