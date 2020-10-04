@@ -1,9 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom"; import About from "./pages/About";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom"; 
+import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
-import Resume from "./pages/Resume";
-// import Contact from "./pages/Contact";
+// import Resume from "./pages/Resume";
+import Contact from "./pages/Contact";
 // import Search from "./pages/Search";
 //import Header from "./components/Header";
 import Navbar from "./components/Navbar";
@@ -19,10 +20,10 @@ function App() {
            <Route exact path="/" component={About} />
           <Route exact path="/about" component={About} /> 
           <Route exact path="/portfolio" component={Portfolio} />
-           <Route exact path="/resume" component={Resume} />
-          {/* <Route exact path="/contact" component={Contact} />
+           {/* <Route exact path="/resume" component={Resume} /> */}
+          <Route exact path="/contact" component={Contact} />
           
-          <Route exact path="/search" component={Search} />   */}
+          {/* <Route exact path="/search" component={Search} />    */}
         </Switch>
         <Footer />
       </div>
