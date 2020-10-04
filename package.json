@@ -26,7 +26,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://sskumar4.github.io/view_employee_directory/",
+  "homepage": "https://sskumar4.github.io/sskportfolio/",
   "browserslist": {
     "production": [
       ">0.2%",
