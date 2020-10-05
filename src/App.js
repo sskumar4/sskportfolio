@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom"; 
+import { BrowserRouter as Router, Route, Switch, Redirect } from "react-router-dom"; 
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 // import Resume from "./pages/Resume";
@@ -14,6 +14,7 @@ function App() {
   console.log(About);
   return (
     <Router>
+      <Redirect to = "/about" />
       <div>
         <Navbar />
         <Switch>
