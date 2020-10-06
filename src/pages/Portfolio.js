@@ -5,12 +5,10 @@ import Title from "../components/Title";
 import projects from "../projects.js";
 
 class Portfolio extends Component {
-  
     render() {
     return (
       <Wrapper>
         <Title>Portfolio</Title>
-        
         {projects.map(projects => (
           <Project
             id={projects.id}

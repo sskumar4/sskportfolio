@@ -6,7 +6,6 @@ import "./style.css";
 
 function Card() {
   return (
-    
     <CardContext.Consumer>
       {({ image, handleBtnClick }) => (
         <div

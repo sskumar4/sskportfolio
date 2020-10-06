@@ -4,3 +4,10 @@
   object-fit: cover;  
   
 }
+
+.border{
+
+  border:1px;
+  border-color: dodgerblue;
+
+}

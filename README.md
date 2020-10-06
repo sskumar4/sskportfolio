@@ -1,33 +1,29 @@
 # sskportfolio
 
-[![picture 2](assets/images/portfolio-thumb.jpg)](https://sskumar4.github.io/sskPortfolio/)  
+[![picture 2](assets/images/portfolio-thumb.jpg)](https://sskumar4.github.io/sskPortfolio/)
 
 # Links to deployed application and repository:
 * [Deployed Application](https://sskumar4.github.io/sskportfolio/)
 * [Repository](https://github.com/sskumar4/sskportfolio)
 
-# Project Name: SSK Portfolio
-# Title: Sudha Kumar 
+# Project Name: SSKPortfolio
+# Title: Sudha Kumar
 
-# Introduction:   
+# Introduction:
 A react porfolio using boorstrap CSS Framework. Responsive design ensures that the web applications render well on a variety of devices or screen sizes
 
-# Technologies: 
+# Technologies:
 Reactjs Bootstrap 4, HTML, CSS
 
 # Features
 Used sematic html
-Created the following files: 
-  * index.html, portfolio.html and contact.html 
+Created components
 Developed the site using bootstrap with the following features:
-  * Responsive navbar with About, Portfolio and Contact links on the right and turns to a  hamburger menu for smaller devices
+  * Responsive navbar with About, Portfolio and Contact links on the left 
   * Responsive layout using grid system
-  * Responsive images
-  * A sticky footer
+  * Responsive images 
   * Used sub-rows and sub-columns
   * Added links to social media
-
-Used HTML validation service to ensure that each page has valid HTML.
 
 # Launch
 

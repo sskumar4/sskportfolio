@@ -1,38 +1,17 @@
-// import React from "react";
-// import { Document } from 'react-pdf';
-// import React, { useState } from 'react';
-// import { Document, Page } from 'react-pdf';
-// let path1 = "process.env.PUBLIC_URL";
-// let path2 = "/Resume-SudhaKumar-72220.pdf"
-// let path3 = path1 +path2;
-// import file from "process.env.PUBLIC_URL/Resume-SudhaKumar-72220.pdf";
+ import React from "react";
+ import myresume from "../myresume.js";
+ import Wrapper from "../components/Wrapper";
+ import Title from "../components/Title";
 
-// import ReactDOM from 'react-dom';
-// import Wrapper from "../components/Wrapper";
-// import { PDFViewer } from '@react-pdf/renderer';
-// import Container from "../components/Container";
-// import { Document, Page, Text, View, StyleSheet } from "@react-pdf/renderer";
-// import ReactPDF from '@react-pdf/renderer';
-// import PdfDoc from "../components/PdfDoc";
-
-// function Resume() {
-//   const [numPages, setNumPages] = useState(null);
-//   const [pageNumber, setPageNumber] = useState(1);
-//   function onDocumentLoadSuccess({ numPages }) {
-//     setNumPages(numPages);
-//   }
-//   return (
-//     // console.log("INSIDE RESUME>JS")
-//     <div>
-//       <Document
-//         //file="./Resume-SudhaKumar-72220.pdf"
-//         onLoadSuccess={onDocumentLoadSuccess}
-//       >
-//         <Page pageNumber={pageNumber} />
-//       </Document>
-//       <p>Page {pageNumber} of {numPages}</p>
-//     </div>
-//   );
-// }
-
-// export default Resume;
+ function Resume() {
+  return (
+    <Wrapper>
+      <Title>Resume</Title>
+         <div className="container-fluid">
+        <img width="100%" alt="resumePage1" src={myresume[0].image} />
+        <img width="100%" alt="resumePage2" src={myresume[1].image} />
+      </div>
+    </Wrapper>
+  );
+}
+export default Resume;
