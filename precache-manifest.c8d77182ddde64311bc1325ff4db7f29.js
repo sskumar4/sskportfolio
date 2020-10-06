@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41d9005a5dfe5bc7a2fe9503e2497de7",
+    "revision": "628a17e12e13762d3d26d9600e0e438c",
     "url": "/sskportfolio/index.html"
   },
   {
-    "revision": "0a2a4b03c9b0f2f60c52",
+    "revision": "a84a013652df7f2aebcf",
     "url": "/sskportfolio/static/css/2.dd163b5e.chunk.css"
   },
   {
-    "revision": "09d28ed70bc05ec29d53",
-    "url": "/sskportfolio/static/css/main.e6438428.chunk.css"
+    "revision": "44fa809b0a4751a5a60a",
+    "url": "/sskportfolio/static/css/main.4f1c7ab8.chunk.css"
   },
   {
-    "revision": "0a2a4b03c9b0f2f60c52",
-    "url": "/sskportfolio/static/js/2.e97aef33.chunk.js"
+    "revision": "a84a013652df7f2aebcf",
+    "url": "/sskportfolio/static/js/2.79e38627.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/sskportfolio/static/js/2.e97aef33.chunk.js.LICENSE.txt"
+    "url": "/sskportfolio/static/js/2.79e38627.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09d28ed70bc05ec29d53",
-    "url": "/sskportfolio/static/js/main.6adc96bf.chunk.js"
+    "revision": "44fa809b0a4751a5a60a",
+    "url": "/sskportfolio/static/js/main.68d869f9.chunk.js"
   },
   {
     "revision": "8c9c92df1659adbd83fd",
     "url": "/sskportfolio/static/js/runtime-main.ed6249f4.js"
+  },
+  {
+    "revision": "98615d902d876229a715b3ba277a0deb",
+    "url": "/sskportfolio/static/media/Resume-sk-72220_Page_1.98615d90.jpg"
+  },
+  {
+    "revision": "b39b256ffee05326c98dc54da7cc1e4d",
+    "url": "/sskportfolio/static/media/Resume-sk-72220_Page_2.b39b256f.jpg"
   },
   {
     "revision": "438fac491084cb4e252dfcfde5e4d7a9",
@@ -50,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6623747190f97f0e9402a410f0a6bbc",
     "url": "/sskportfolio/static/media/img3.a6623747.JPG"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/sskportfolio/static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "f5f1154a2d7d0f1fa428627451191706",
