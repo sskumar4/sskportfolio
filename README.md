@@ -1,6 +1,6 @@
 # sskportfolio
 
-[![picture 2](assets/images/portfolio-thumb.jpg)](https://sskumar4.github.io/sskPortfolio/)
+[![picture 2](src/images/portfolio-thumb.jpg)](https://sskumar4.github.io/sskportfolio/#/portfolio)
 
 # Links to deployed application and repository:
 * [Deployed Application](https://sskumar4.github.io/sskportfolio/)
