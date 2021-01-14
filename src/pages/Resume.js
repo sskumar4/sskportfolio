@@ -10,6 +10,7 @@
          <div className="container-fluid">
         <img width="100%" alt="resumePage1" src={myresume[0].image} />
         <img width="100%" alt="resumePage2" src={myresume[1].image} />
+        <img width="100%" alt="resumePage2" src={myresume[2].image} />
       </div>
     </Wrapper>
   );

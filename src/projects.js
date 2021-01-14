@@ -8,6 +8,14 @@ import weatherDashboard from "./images/weatherDashboard.jpg"
 export default[
   {
     "id": 2,
+    "name": "SafeTrip",
+    "image": safetrip,
+    "githublink": "https://github.com/sskumar4/safetrip",
+    "deploymentlink": "https://github.com/sskumar4/safetrip"
+    
+  },
+  {
+    "id": 2,
     "name": "SafeTravel",
     "image": safetravel,
     "githublink": "https://bit.ly/33iJLWL",
