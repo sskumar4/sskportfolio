@@ -30,6 +30,8 @@ class Contact extends React.Component {
       <Wrapper>
       <form onSubmit={this.mySubmitHandler} name="contact" method="POST" data-netlify="true" >
       <h1>Contact</h1>
+      <p><h5>Connect with me: sudha1k@yahoo.com</h5></p>
+      <p>Feel free to contact me using the form below.</p>
       <p>Enter your name:<br />
       <input
         type='text'
