@@ -1,5 +1,6 @@
 import React from "react";
 import "./projects.css";
+//import Card from Card;
 
 function Project(props) {
   return (
@@ -17,6 +18,12 @@ function Project(props) {
           </li>
           <li>
           <a target="_blank" href={props.deploymentlink}><strong>Deployed Link</strong></a>
+          </li>
+          <li>
+          <strong>Technologies: {props.technologies}</strong>
+          </li>
+          <li>
+          <strong>Description: {props.description}</strong>
           </li>
         </ul>
       </div>

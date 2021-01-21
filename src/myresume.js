@@ -1,6 +1,6 @@
-import page1 from "./images/Resume-SudhaKumar-121020_Page_1"
-import page2 from "./images/Resume-SudhaKumar-121020_Page_2"
-import page2 from "./images/Resume-SudhaKumar-121020_Page_3"
+import page1 from "./images/Resume-SudhaKumar-121020_Page_1.jpg"
+import page2 from "./images/Resume-SudhaKumar-121020_Page_2.jpg"
+import page3 from "./images/Resume-SudhaKumar-121020_Page_3.jpg"
 
 export default[
   {
